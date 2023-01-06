@@ -2,5 +2,5 @@
 
 
  
-    <img src="https://evil.com" alt="Avatar" class="avatar">
+    "><img src="https://evil.com" alt="Avatar" class="avatar">
  
